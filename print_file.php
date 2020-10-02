@@ -1,3 +1,3 @@
 <?php
-echo scandir( "." ); // get the contents, and echo it out.
+print_r (scandir( "." )); // get the contents, and echo it out.
 ?>
